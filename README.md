@@ -8,4 +8,4 @@ This repository contains the dataset and R code used for our study on the lag ti
 5. "**random_variable_confirmed_cases.xlsx**" contains the values of the lag time random variable (Y) for confirmed cases.
 6. "**random_variable_deaths.xlsx**" contains the values of the lag time random variable (Y) for deaths.
 7. "**updated_policy_and_rollback_changes_till_22Feb2021.xlsx**" is a database for state-level policies during the study period: March 8, 2020 - February 28, 2021.
-8. "**us-states_20210303.csv**" is the dataset of the COVID-19 United State daily confrimed cases and deaths recorded up to March 3, 2021. The data was downloaded at approximately 4:00 MST on March 6, 2021 from the New York Times COVID-19 data repository at https://github.com/nytimes/covid-19-data.
+8. "**us-states_20210303.csv**" is the dataset of the COVID-19 United States daily confirmed cases and deaths recorded up to March 3, 2021. The data was downloaded at approximately 4:00 MST on March 6, 2021 from the New York Times COVID-19 data repository at https://github.com/nytimes/covid-19-data.
