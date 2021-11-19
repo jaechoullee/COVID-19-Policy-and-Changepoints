@@ -11,7 +11,7 @@ WD.inp <- c("L:/Home/JaechoulLee/!1Research/Paper/Epidemiology/P02_Covid19/Data/
 WD.out <- c("L:/Home/JaechoulLee/!1Research/Paper/Epidemiology/P02_Covid19/Application_R1/Out_2/")
 
 ### Load the R code for the proposed piecewise drift random walk model and GA
-source(file=paste(WD.lib,"lib_ga-RWD_v1-2.R",sep=""))
+source(file=paste(WD.lib,"lib_ga-RWD_v1-gh.R",sep=""))
 
 ### Required packages
 library(tidyverse)
